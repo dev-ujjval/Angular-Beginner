@@ -1,0 +1,104 @@
+{
+    "locations": [
+        {
+            "id": 0,
+            "name": "1-Raum-Wohnung mit separater Kochnische",
+            "address": "Albert-Köhler-Str. 44, Morgenleite",
+            "city": "Chemnitz",
+            "photo": "/assets/bernard-hermant-CLKGGwIBTaY-unsplash.jpg",
+            "price": 200,
+            "size": 12.50,
+            "balcony": true
+          },
+          {
+            "id": 1,
+            "name": "Attraktive Singlewohnung in toller Wohnlage",
+            "address": "Am Bernsdorfer Hang 4, Bernsdorf",
+            "city": "Chemnitz",
+            "photo": "/assets/brandon-griggs-wR11KBaB86U-unsplash.jpg",
+            "price": 278,
+            "size": 33.50,
+            "balcony": true
+          },
+          {
+            "id": 2,
+            "name": "Hübsche 1-Raum-Wohnung nahe Schlossteich",
+            "address": "Nordstr. 8, Zentrum",
+            "city": "Chemnitz",
+            "photo": "/assets/i-do-nothing-but-love-lAyXdl1-Wmc-unsplash.jpg",
+            "price": 250,
+            "size": 36.50,
+            "balcony": false
+          },
+          {
+            "id": 3,
+            "name": "Kleine Singlewohnung zum fairen Preis",
+            "address": "Leipziger Str. 173, Heinersdorf",
+            "city": "Chemnitz",
+            "photo": "/assets/ian-macdonald-W8z6aiwfi1E-unsplash.jpg",
+            "price": 600,
+            "size": 44.50,
+            "balcony": false
+          },
+          {
+            "id": 4,
+            "name": "1-Raum-Wohnung mit Einbauküche zum fairen Preis",
+            "address": "Paul-Bertz-Str. 25, Helbersdorf",
+            "city": "Chemnitz",
+            "photo": "/assets/krzysztof-hepner-978RAXoXnH4-unsplash.jpg",
+            "price": 550,
+            "size": 60.00,
+            "balcony": false
+          },
+          {
+            "id": 5,
+            "name": "Klein, aber Dein - 1-Raum-Wohnung mit Balkon",
+            "address": "Str. Usti nad Labem 97, Kappel",
+            "city": "Chemnitz",
+            "photo": "/assets/r-architecture-JvQ0Q5IkeMM-unsplash.jpg",
+            "price": 350,
+            "size": 70.00,
+            "balcony": false
+          },
+          {
+            "id": 6,
+            "name": "Klein, aber Dein - Singlewohnung mit Einbauküche",
+            "address": "Uferstr. 38, Lutherviertel",
+            "city": "Chemnitz",
+            "photo": "/assets/phil-hearing-IYfp2Ixe9nM-unsplash.jpg",
+            "price": 400,
+            "size": 13.00,
+            "balcony": false
+          },
+          {
+            "id": 7,
+            "name": "1-Raum-Erdgeschosswohnung mit Balkon",
+            "address": "Am Harthwald 10, Markersdorf",
+            "city": "Chemnitz",
+            "photo": "/assets/r-architecture-GGupkreKwxA-unsplash.jpg",
+            "price": 650,
+            "size": 16.00,
+            "balcony": false
+          },
+          {
+            "id": 8,
+            "name": "1-Raum-Wohnung mit separater Kochnische",
+            "address": "Albert-Köhler-Str. 44, Morgenleite",
+            "city": "Chemnitz",
+            "photo": "/assets/saru-robert-9rP3mxf8qWI-unsplash.jpg",
+            "price": 950,
+            "size": 17.50,
+            "balcony": false
+          },
+          {
+            "id": 9,
+            "name": "Große 1-Raum-Wohnung mit Balkon",
+            "address": "P.-Mitterhofer-Str. 5, Schönau",
+            "city": "Chemnitz",
+            "photo": "/assets/webaliser-_TPTXZd9mOo-unsplash.jpg",
+            "price": 198,
+            "size": 49.00,
+            "balcony": false
+          }
+    ]
+}
